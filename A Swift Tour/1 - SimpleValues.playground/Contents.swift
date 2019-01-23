@@ -22,6 +22,7 @@ let four: Float = 4
 let size = 40
 let label = "The width is \(size)."
 let sizeLabel = label + String(size)
+
 //uncomment line below to see error
 //let sizeLabel = label + size
 
